@@ -1,0 +1,5 @@
+C:\Users\Lenovo\OneDrive\Desktop\C#\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\C#\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\C#\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\C#\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\C#\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.CoreCompileInputs.cache
